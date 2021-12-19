@@ -12,7 +12,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
 ## Results
 ![Result](Segmented_result.png)  
 
-|Dataset|Loss|Dice||IoU||
+|Dataset|Loss|Dice       ||IoU       ||
 |-----|-----|-----|-----|-----|-----|
 |||With background|Without background|With background|Without background|
 |Train	|0.1747	|0.9741	|0.9270	|0.9510	|0.8702|
