@@ -7,6 +7,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
 ## Architecture Details
 
 ## Implementation
+## Data
 
 ## Results
 ![Result](Segmented_result.png)  
