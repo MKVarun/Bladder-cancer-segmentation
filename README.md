@@ -14,6 +14,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
 
 |Dataset|Loss|Dice|IoU|
 |-----|-----|-----|-----|
+|||With background|Without background|With background|Without background|
 |-----|-----|-----|-----|-----|-----|
 |Train	|0.1747	|0.9741	|0.9270	|0.9510	|0.8702|
 |Val	|0.1806	|0.9717	|0.9218	|0.9461	|0.8614|
