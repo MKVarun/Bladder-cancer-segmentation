@@ -31,7 +31,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
     </tr>
     <tr align="center">
       <td>Test</td>
-      <td>0.1881</td> <td>0.9733</td> <td>0.9203</td> <td>0.9494</td> <td>0.8618</td>
+      <td>0.1881</td> <td>0.9733</td> <th>0.9203</th> <td>0.9494</td> <th>0.8618</th>
     </tr>
   </tbody>
 </table>
@@ -55,7 +55,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
     </tr>
     <tr align="center">
       <td>Test</td>
-      <td>0.1881</td> <td>0.8266</t> <td>0.7481</td> <td>0.7896</td> <td>0.7001</td>
+      <td>0.1881</td> <td>0.8266</t> <th>0.7481</th> <td>0.7896</td> <th>0.7001</th>
     </tr>
   </tbody>
 </table>
