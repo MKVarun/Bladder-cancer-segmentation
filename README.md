@@ -9,7 +9,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
 ## Implementation
 
 ## Results
-![Result](../Segmented_result.png)  
+!(/Segmented_result.png)  
 
 ## System requirements
 - Python 3
