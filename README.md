@@ -13,6 +13,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
 ![Result](Segmented_result.png)  
 
 <table>
+  <caption align="center">Overall dice and IoU score calculation</caption>
   <thead>
     <tr>
       <th>Dataset</th><th>Loss</th><th colspan=2>Dice</th><th colspan=2>IoU</th>
@@ -37,6 +38,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
 </table>
 
 <table>
+  <caption align="center">Class-averaged dice and IoU score calculation</caption>
   <thead>
     <tr>
       <th>Dataset</th><th>Loss</th><th colspan=2>Dice</th><th colspan=2>IoU</th>
