@@ -16,7 +16,7 @@ We automate this process by using deep learning to segment immmonupositive (red)
 
 <p align="center"><b>Fig. 1: Standard UNet Model</b></p>
 
-![UNet](UNet.png)
+![UNet](Images/UNet.png)
 
 We implemented the Mobile-Unet model which replaces the convolutional layers of the standard U-Net model (Fig.1) with separable convolutions. This reduces the number of parameters as well as the required computations. The model performed a three class segmentation with a total parameters of 2.67M trainable parameters. The model was trained for a total of 50 epochs with categorical cross entropy as loss and Adam optimizer with initial learning rate set to 0.0001. The model was trained on a Tesla P100-PCIE-16GB GPU. The overall and class-averaged dice and intersection over union (IoU) scores were evaluated on the trained model.
 
@@ -54,7 +54,7 @@ We implemented the Mobile-Unet model which replaces the convolutional layers of 
 
 <p align="center"><b>Fig. 2: Segmented Result</b></p>
 
-![Segmented Result](Segmented_result.png)  
+![Segmented Result](Images/Segmented_result.png)  
 
 ## System requirements
 - Python version 3.0
